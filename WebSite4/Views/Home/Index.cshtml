@@ -1,0 +1,24 @@
+﻿@model IEnumerable<String>
+
+@{
+    ViewBag.Title = "Index";
+
+    var roles = Roles.GetRolesForUser();
+
+    foreach (var item in roles)
+    {
+        <p>@item</p>
+    }
+}
+
+<h2>Hello</h2>
+
+<h2>Below is the role provider</h2>
+
+@{ 
+    foreach (var role in Model)
+    {
+        <p>@role</p>
+    }
+}
+

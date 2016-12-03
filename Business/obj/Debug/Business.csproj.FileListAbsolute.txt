@@ -1,0 +1,5 @@
+C:\dev\WebSite4\Business\bin\Debug\Business.dll
+C:\dev\WebSite4\Business\bin\Debug\Business.pdb
+C:\dev\WebSite4\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\dev\WebSite4\Business\obj\Debug\Business.dll
+C:\dev\WebSite4\Business\obj\Debug\Business.pdb

@@ -1,0 +1,4 @@
+C:\dev\WebSite4\Business\bin\Release\Business.dll
+C:\dev\WebSite4\Business\bin\Release\Business.pdb
+C:\dev\WebSite4\Business\obj\Release\Business.dll
+C:\dev\WebSite4\Business\obj\Release\Business.pdb
